@@ -1,0 +1,69 @@
+body {
+    background-color: #0b0122;
+   }
+.input{
+    text-align: center;
+    /* position: absolute; */
+    /* width: 79px;
+    height: 101px; 
+    /* left: 733px;
+    top: 462px; */ 
+    position: absolute;
+width: 477px;
+height: 108px;
+left: 450px;
+top: 16px;
+    font-family: 'Fredoka', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 229px;
+    background-color:#0b0122;
+    color:#dbccff;
+    z-index:1;
+
+}
+.button{
+    position: absolute;
+    width: 117px;
+    height: 104px;
+    left: 630px;
+    top: 146px;  
+    background-color:#0b0122;  
+    color:#dbccff;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 30px;
+    line-height: 22px;
+    z-index:1;
+}
+.div{
+    text-align: center;
+    position: absolute;
+    /* width: 79px;
+    height: 101px; */
+    left: 650px;
+    top: 300px;
+    /* font-family: 'Fredoka', sans-serif; */
+    font-family: 'Fredoka', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 229px;
+    color: #00ffb3;
+    z-index:1;
+}
+.h5{
+    color: #e9fbff;
+    z-index:0;
+ user-select: none;   
+}
+.moon{
+    top: 105px;
+    position: absolute;  
+    font-family: 'Fredoka', sans-serif;
+    font-size: 130px;
+    line-height: 122px;
+    z-index:1;   
+    color: #feffca; 
+    user-select: none;   
+}
